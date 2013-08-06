@@ -4,7 +4,7 @@
   "description": "nodejs module that sends message indicating its IP address",
   "main": "index.js",
   "scripts": {
-    "test": "mocha test/*Spec.js"
+    "test": "mocha --recursive test"
   },
   "author": "@codeswimmer",
   "license": "MIT"
