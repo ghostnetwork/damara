@@ -1,0 +1,11 @@
+{
+  "name": "Damara",
+  "version": "0.1.0",
+  "description": "nodejs module that sends message indicating its IP address",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*Spec.js"
+  },
+  "author": "@codeswimmer",
+  "license": "MIT"
+}

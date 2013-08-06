@@ -1,4 +1,5 @@
-damara
-======
+Damara
+=====
 
-tiny nodejs module that sends message (email, SMS or tweet) indicating the IP address it's running on
+nodejs module that sends message indicating its IP address
+
